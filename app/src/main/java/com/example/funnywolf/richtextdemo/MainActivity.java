@@ -31,5 +31,6 @@ public class MainActivity extends AppCompatActivity {
 //                .add(R.id.fragment_content, new ClickableSpanTestFragment())
                 .add(R.id.fragment_content, new HtmlTagHandlerFragment())
                 .commit();
+        int i=0;
     }
 }
